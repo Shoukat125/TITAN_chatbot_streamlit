@@ -5,3 +5,9 @@ __pycache__/
 chroma_db/
 *.db
 .DS_Store
+
+vector_store/
+response.mp3
+logs.txt
+admin_data.json
+Voice to vioce.mp4
